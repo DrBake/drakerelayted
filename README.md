@@ -1,8 +1,8 @@
-# Drake Unrelated
+# Drake Relayted
 
 My attempt at recreating https://drakerelated.com/ using NextJS and TailwindCSS.
 
-This version can be found over at https://drakeunrelated.vercel.app/
+This version can be found over at https://drakerelayted.vercel.app/
 
 Obviously, all copywrite belong to their respective owners.
 
